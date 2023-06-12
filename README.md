@@ -21,7 +21,7 @@ The GitHub Profile Fetcher is a web application that allows users to enter a Git
 
 To get started with the GitHub Profile Fetcher, follow these steps:
 
-1. Clone the repository: https://harshraj78.github.io/github-profile-viewer/
+1. Clone the repository: https://github.com/harshraj78/github-profile-viewer.git
 
 2. Open the index.html file in your web browser.
 
